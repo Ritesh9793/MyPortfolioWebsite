@@ -1,0 +1,23 @@
+# CSS
+css/
+
+# Fonts
+fonts/
+
+# Images
+images/
+
+# JavaScript
+js/
+
+# Library
+lib/
+
+# SCSS
+scss/
+
+# Configuration
+prepos-6.config
+
+# ReadMe
+README.md
